@@ -1,0 +1,13 @@
+[
+  {
+    "firstname": "Albert",
+    "lastname": "Chinyani",
+    "totalprice": 123,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2023-06-01",
+      "checkout": "2023-06-10"
+    },
+    "additionalneeds": "Breakfast"
+  }
+]
